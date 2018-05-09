@@ -1,0 +1,8 @@
+# Truffle output
+build/
+
+# Node modules
+node_modules/
+
+#private files
+.env
