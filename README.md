@@ -8,9 +8,9 @@ The CCC contract is build on the StandardToken.sol contract from OpenZeppelin v1
 The CCCToken is created in the contracts/CCCToken.sol solidity file.
 
 # Deployments
-The Ethereum Mainnet contract address is TBD.
+The Ethereum Mainnet contract address is [0x9e3359f862b6c7f5c660cfd6d1aa6909b1d9504d](https://etherscan.io/token/0x9e3359f862b6c7f5c660cfd6d1aa6909b1d9504d "look up at etherscan").
 
-The Ropsten Testnet contract address is `0x6E67CCD648244b3B8E2F56149b40BA8de9D79b09`.
+The Ropsten Testnet contract address is [0x6E67CCD648244b3B8E2F56149b40BA8de9D79b09](https://ropsten.etherscan.io/token/0x6E67CCD648244b3B8E2F56149b40BA8de9D79b09 "look up at etherscan").
 
 # Bug bounty program
 
